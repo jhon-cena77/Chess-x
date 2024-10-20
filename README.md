@@ -1,2 +1,2 @@
 # Chess-x
-A simpel chess engine front end in pytohn
+https://lczero.org/dev/wiki/best-nets-for-lc0/
