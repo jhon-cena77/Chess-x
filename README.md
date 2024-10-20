@@ -11,3 +11,5 @@ I only have Leela for CUDA devices, so to get it to run on some systems, you mig
 
 - **Network Adjustment**: Adjust your network for Leela on line 20.
 - **Maximum Time**: Adjust the maximum time for Leela to run on line 31. It is recommended to set it to at least 3 seconds or higher.
+
+If you want [my default binaries get them here](https://www.mediafire.com/file/8qbgmlgr5vzy1zu/dependencies.zip/file) note its .7 gb
